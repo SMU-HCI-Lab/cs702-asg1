@@ -1,2 +1,2 @@
-# cs702-asg1
+# CS702 Assignment 1
 Assignment 1
