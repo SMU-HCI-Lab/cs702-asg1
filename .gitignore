@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
+# *.so
 
 # Distribution / packaging
 .Python
@@ -170,5 +170,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-q3.c
-q3.py
+q3_simulator.c
+q3_simulator.py
+answer*

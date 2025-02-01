@@ -6,7 +6,7 @@ import numpy
 
 ext = Extension(
     "q3",
-    ["q3.py"],
+    ["q3_simulator.py"],
     include_dirs=[numpy.get_include()]
 )
 

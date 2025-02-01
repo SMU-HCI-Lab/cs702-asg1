@@ -25,6 +25,7 @@ RUN apt-get update > /dev/null && \
     apt-get install --no-install-recommends --yes \
         wget bzip2 ca-certificates \
         gcc \
+        build-essential \
         git \
         tini \
         bash-completion \
